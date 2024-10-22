@@ -8,11 +8,11 @@ nav_order: 6
 ---
 
 #### Carnegie Mellon University
-Provided office hours, tutored and graded for the following graduate cources:
+Provided office hours, tutored and graded for the following graduate courses:
 - Human Language for Artificial Intelligence (11-724)
 
 #### Harvey Mudd College
-Provided office hours, tutored and graded for the following undergraduate cources:
+Provided office hours, tutored and graded for the following undergraduate courses:
 
 ##### Computer Science
 - Natural Language Processing (CS-159) instructed by Prof. Xanda Schofield
@@ -29,9 +29,11 @@ Provided office hours, tutored and graded for the following undergraduate cource
 
 ##### Physics
 - Special Relativity (*PHYS-23) instructed by Prof. Theresa Lynn
-- Mechanics and Wave Motion (PHYS-24) instructed by Prof. Theresa Lynn
+- Mechanics and Wave Motion (PHYS-24) instructed by Prof. Vatche Sahakian
 
-
+#### Misc.
+I have served as both an instructor and curriculum manager/developer for [InpsiritAI](https://www.inspiritai.com/) for both their AI Scholars and AI Deep Dive programs.
+- 
 *Offered as intensive half-semester courses as part of academic curriculum
 
-Under construction
+site under construction
