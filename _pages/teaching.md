@@ -31,9 +31,9 @@ Provided office hours, tutored and graded for the following undergraduate course
 - Special Relativity (*PHYS-23) instructed by Prof. Theresa Lynn
 - Mechanics and Wave Motion (PHYS-24) instructed by Prof. Vatche Sahakian
 
-#### Misc.
+#### Misc
 I have served as both an instructor and curriculum manager/developer for [InpsiritAI](https://www.inspiritai.com/) for both their AI Scholars and AI Deep Dive programs.
-- 
+ 
 *Offered as intensive half-semester courses as part of academic curriculum
 
 site under construction
