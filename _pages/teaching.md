@@ -23,7 +23,7 @@ Provided office hours, tutored and graded for the following undergraduate course
 - Machine Learning (CS-158) instructed by Prof. Yi-Chieh Wu
 - Computer Science Education (CS-106) instructed by Prof. Colleen Lewis
 - Logic and Computability (CS-81) instructed by Prof. Christopher A. Stone
-- CS for Insight (CS-35) instructed by Prof. Zachary Dodds 
+- CS for Insight (CS-35) instructed by Prof. Zachary Dodds
 
 ##### Mathematics
 
@@ -36,7 +36,7 @@ Provided office hours, tutored and graded for the following undergraduate course
 
 - Special Relativity (\*PHYS-23) instructed by Prof. Theresa Lynn
 - Mechanics and Wave Motion (PHYS-24) instructed by Prof. Vatche Sahakian
-  
+
 \*Offered as intensive half-semester courses as part of academic curriculum
 
 #### Misc
