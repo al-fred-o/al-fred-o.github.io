@@ -40,6 +40,7 @@ Provided office hours, tutored and graded for the following undergraduate course
 \*Offered as intensive half-semester courses as part of academic curriculum
 
 #### Misc
+
 I have served as both an instructor and curriculum manager/developer for [InpsiritAI](https://www.inspiritai.com/) for both their AI Scholars and AI Deep Dive programs.
 
 site under construction
